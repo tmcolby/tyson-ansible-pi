@@ -1,0 +1,7 @@
+[defaultdevices]
+#raspberrypi
+172.22.1.68
+[defaultdevices:vars]
+ansible_user=pi
+ansible_sudo_pass=raspberry
+ansible_ssh_pass=raspberry
